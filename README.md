@@ -1,2 +1,5 @@
-# dontstarvetogether
-mods e scripts de don't starve together
+# Don't Starve Together
+
+Mods:
+    Qyonne, a rainha do gelo
+    Frostmourn
