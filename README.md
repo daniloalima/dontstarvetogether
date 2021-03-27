@@ -1,5 +1,5 @@
 # Don't Starve Together
 
 Mods:
-    Qyonne, a rainha do gelo
+    Qyonne, a rainha do gelo\n
     Frostmourn
