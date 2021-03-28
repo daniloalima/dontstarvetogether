@@ -1,3 +1,5 @@
+---@diagnostic disable: undefined-global
+
 AllPlayers[1]:PushEvent('respawnfromghost')
 c_give("moonrockseed")
 c_spawn("spider")

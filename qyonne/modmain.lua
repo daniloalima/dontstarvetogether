@@ -1,3 +1,4 @@
+---@diagnostic disable: undefined-global
 PrefabFiles = {
 	"qyonne",
 	"qyonne_none",
